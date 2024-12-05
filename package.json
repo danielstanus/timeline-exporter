@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@mapbox/togeojson": "^0.16.0",
-    "axios": "^0.19.0",
+    "axios": "^1.7.8",
     "bootstrap": "^4.5.3",
     "bootstrap-vue": "^2.20.1",
     "moment": "^2.29.1",
